@@ -1,10 +1,14 @@
 # My_Parsers
 BeautifulSoup
-01 - 01_GCTC_ru.py
-02 - 02_Toyes.py
-03 - 03_catshows.py
+1. 01_GCTC_ru.py
+2. 02_Toyes.py
+3. 03_catshows.py
+---
+
 Selenium
-01 - 04_Nootbooks.py
+1. 04_Nootbooks.py
+2. 
+---
 Фреймворк Scrapy
-01 - 05_Scrapy_ferments.py
-02 - 06_Scrapy_presents.py
+1. 05_Scrapy_ferments.py
+2. 06_Scrapy_presents.py
