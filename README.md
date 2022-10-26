@@ -12,3 +12,4 @@
 **Фреймворк Scrapy**
 1. 05_Scrapy_ferments.py
 2. 06_Scrapy_presents.py
+3. 07_CoursesSpider2.py
